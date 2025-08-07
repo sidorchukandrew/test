@@ -149,7 +149,7 @@
     ]
   },
   "codegenConfig": {
-    "name": "TestViewSpec",
+    "name": "Test",
     "type": "components",
     "jsSrcsDir": "src",
     "android": {

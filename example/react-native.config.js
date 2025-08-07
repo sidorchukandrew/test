@@ -16,6 +16,7 @@ module.exports = {
         android: {
           libraryName: 'Test',
           componentDescriptors: ['TestComponentDescriptor'],
+          cmakeListsPath: 'src/main/jni/CMakeLists.txt',
         },
       },
     },
