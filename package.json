@@ -150,15 +150,10 @@
   },
   "codegenConfig": {
     "name": "TestViewSpec",
-    "type": "all",
+    "type": "components",
     "jsSrcsDir": "src",
     "android": {
-      "javaPackageName": "com.test"
-    },
-    "ios": {
-      "componentProvider": {
-        "TestView": "TestView"
-      }
+      "javaPackageName": "com.sidorchukandrew.reactnativetest"
     }
   },
   "create-react-native-library": {
